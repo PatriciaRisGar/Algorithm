@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+C:\Users\Patri\Desktop\Algorithm\.metadata\.plugins\org.eclipse.jdt.core
-1786471491.index
-4084348409.index
-1865797976.index
